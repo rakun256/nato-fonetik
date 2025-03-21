@@ -1,0 +1,2 @@
+# nato-fonetik
+nato-fonetik
